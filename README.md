@@ -1,52 +1,26 @@
-![David Sak's Digital Playground: a pixel-art universe of robots, code and space](assets/playground.png)
+![David Sak — Digital Playground. A winged figure in black armour, drawn in silver against a black sky.](assets/digital-playground.jpg)
 
-<div align="center">
+<sub>PLAYER 01　/　PLZEŇ, CZECHIA</sub>
 
-### 👾 PLAYER 01: DAVID SAK
+## Hi, I’m David.
 
-**Developer · AI builder · professional idea explorer**
+I build AI agents, data pipelines and websites. At **SiteSpot**, the studio I co-founded, I design, write and deploy software for businesses. When a rule can handle a task, I use one. When a decision needs a person, I build the handoff.
 
-I turn curious ideas into useful things: AI agents, automations, data pipelines and websites.
-From the first sketch to the final deploy. 🚀
+My GitHub also has a corner for astrophysics. Pick a world below.
 
-[🌐 Website](https://www.dsak.tech/) &nbsp; · &nbsp; [💼 LinkedIn](https://www.linkedin.com/in/sak-david) &nbsp; · &nbsp; [✉️ Say hello](mailto:business@dsak.tech)
+### Select a world
 
-</div>
+| World | What you’ll find |
+| :--- | :--- |
+| **[Cortexia ↗](https://cortexia-alpha.vercel.app/cs)** | A memory for company decisions. It connects the tools a team already uses and keeps the reasoning behind each decision. |
+| **[SiteSpot ↗](https://sitespot.cz)** | My studio’s work on custom websites and workflow automation. |
+| **[Exotic Compact Objects ↗](https://github.com/Dawe583/exotic-compact-objects)** | My research project on exotic compact objects, at the intersection of code and astrophysics. |
+| **[Astro Science ↗](https://github.com/Dawe583/astro-science)** | The astronomy side of my workspace. |
 
 ---
 
-## 🕹️ Choose your world
+<sub>CO-OP MODE</sub>
 
-🧠 **[Cortexia](https://cortexia-alpha.vercel.app/cs)**  
-A company brain built to connect tools, knowledge and decisions.
+**What would you automate first?** Tell me which part of your workflow eats up the most time.
 
-🌐 **[SiteSpot](https://sitespot.cz)**  
-The studio I co-founded to build websites and automations for businesses.
-
-🌌 **[Exotic Compact Objects](https://github.com/Dawe583/exotic-compact-objects)**  
-Exploring the universe through astrophysics and research.
-
-🔭 **[Astro Science](https://github.com/Dawe583/astro-science)**  
-Another corner of my playground dedicated to astronomy and science.
-
-## ⚡ Player inventory
-
-```text
-🧠 AI agents & LLM applications    ██████████  equipped
-🤖 Automation & data pipelines     ██████████  equipped
-🌐 Websites & digital products     ██████████  equipped
-🔭 Science & cosmic curiosity      ██████████  always on
-```
-
-## 🎯 Current mission
-
-Build useful things, experiment with new ideas and make technology work for people.
-
-<div align="center">
-
-**Have a wild idea? Let's make it real.**  
-[Start a conversation →](mailto:business@dsak.tech)
-
-✦ &nbsp; MADE ON PLANET EARTH &nbsp; ✦ &nbsp; EXPLORING EVERYTHING ELSE &nbsp; ✦
-
-</div>
+[Write to me](mailto:business@dsak.tech)　·　[Explore my portfolio](https://www.dsak.tech/)　·　[LinkedIn](https://www.linkedin.com/in/sak-david)
